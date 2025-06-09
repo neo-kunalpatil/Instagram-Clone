@@ -225,10 +225,10 @@
                             </div>
 
                             {% if follow_status == True %}
-                            <a href="{% url 'follow' user 0 %}" class="side-menu__suggestion-button">Follow</a>
-                            {% else %}
-                            <a href="{% url 'follow' user 1 %}" class="side-menu__suggestion-button" >Follow</a>
-                            {% endif %}
+    <a href="{% url 'follow' user.username '0' %}" class="side-menu__suggestion-button">Follow</a>
+{% else %}
+    <a href="{% url 'follow' user.username '1' %}" class="side-menu__suggestion-button">Follow</a>
+{% endif %}
                         </div>
                         {% endif %}
                         {% endfor %}
@@ -276,9 +276,9 @@
                                 </div>
 
                                 {% if follow_status == True %}
-                                <a href="{% url 'follow' user 0 %}" class="side-menu__suggestion-button">Follow</a>
+                                <a href="{% url 'follow' user.username '0' %}" class="side-menu__suggestion-button">Follow</a>
                                 {% else %}
-                                <a href="{% url 'follow' user 1 %}" class="side-menu__suggestion-button">Follow</a>
+                                <a href="{% url 'follow' user.username '1' %}" class="side-menu__suggestion-button">Follow</a>
                                 {% endif %}
                             </div>
                             {% endif %}
