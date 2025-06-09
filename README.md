@@ -139,5 +139,19 @@ This platform is intended for:
 * Implementing real-time interactions (chat, likes)
 * Bootstrap-based UI development
 * Full CRUD operations with models
+  ![Screenshot 2025-06-09 172643](https://github.com/user-attachments/assets/28c1e735-1c41-44ba-8754-592744d0352d)
+  ![Screenshot 2025-06-09 172655](https://github.com/user-attachments/assets/42657e52-77c9-4b15-a17e-867886ce712d)
+  ![Screenshot 2025-06-09 172720](https://github.com/user-attachments/assets/89270958-b7a0-4780-ae99-7bed3ef752f5)
+  ![Screenshot 2025-06-09 172733](https://github.com/user-attachments/assets/3fff40de-4d82-421e-bbe2-f8afe0aeaea2)
+![Screenshot 2025-06-04 221128](https://github.com/user-attachments/assets/77f5841e-46e3-4d4c-bb58-e8bc5eb9408c)
+![Screenshot 2025-06-04 212134](https://github.com/user-attachments/assets/4f59a657-b1c1-48af-b2d2-367ad6e34444)
+![Screenshot 2025-06-05 103951](https://github.com/user-attachments/assets/353755dd-2f25-44b2-a8b7-362570ce2577)
+
+
+
+
+
+
+
 
 
