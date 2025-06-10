@@ -147,7 +147,10 @@ This platform is intended for:
 ![Screenshot 2025-06-04 212134](https://github.com/user-attachments/assets/4f59a657-b1c1-48af-b2d2-367ad6e34444)
 ![Screenshot 2025-06-05 103951](https://github.com/user-attachments/assets/353755dd-2f25-44b2-a8b7-362570ce2577)
 ![Screenshot 2025-06-09 195035](https://github.com/user-attachments/assets/6384e2a6-3fb6-4cac-8072-8d2a2f849de4)
-![Screenshot 2025-06-10 100113](https://github.com/user-attachments/assets/73df2966-4d53-436e-bfe6-889839652c4c)
+![image](https://github.com/user-attachments/assets/ddae34d6-809e-448f-b973-67b3e4b0484c)
+![image](https://github.com/user-attachments/assets/bfa87d5d-be09-4375-be5c-13857bfb1f44)
+
+
 ![Screenshot 2025-06-09 192551](https://github.com/user-attachments/assets/e358d453-c930-412a-adf0-3e54888effb8)
 ![Screenshot 2025-06-09 180425](https://github.com/user-attachments/assets/edfe7611-1fdb-41b4-a330-440c560ef35a)
 
