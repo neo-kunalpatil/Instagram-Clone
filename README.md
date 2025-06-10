@@ -152,6 +152,10 @@ This platform is intended for:
 
 
 ![Screenshot 2025-06-09 192551](https://github.com/user-attachments/assets/e358d453-c930-412a-adf0-3e54888effb8)
+
+https://github.com/user-attachments/assets/a87cd921-f972-4ad5-a7ff-8c03a7d8d94e
+
+
 ![Screenshot 2025-06-09 180425](https://github.com/user-attachments/assets/edfe7611-1fdb-41b4-a330-440c560ef35a)
 
 
